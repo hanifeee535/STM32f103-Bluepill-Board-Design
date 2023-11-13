@@ -1,0 +1,245 @@
+Protel Design System Design Rule Check
+PCB File : D:\STM 32 Designing with Altium\STM32f103\STM32 PCB.PcbDoc
+Date     : 4/15/2022
+Time     : 11:39:04 PM
+
+Processing Rule : Clearance Constraint (Gap=7.874mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=11.811mil) (Max=19.685mil) (Preferred=11.811mil) (All)
+Rule Violations :0
+
+Processing Rule : Routing Layers(All)
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=11.811mil) (MaxHoleWidth=11.811mil) (PreferredHoleWidth=11.811mil) (MinWidth=23.622mil) (MaxWidth=23.622mil) (PreferedWidth=23.622mil) (All)
+   Violation between Routing Via Style: Via (1020.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1045.472mil,53.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1045.472mil,853.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1070.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1120.276mil,733.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1145.472mil,753.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1145.472mil,853.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1170.276mil,733.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1170.472mil,403.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (120.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (120.276mil,733.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (120.472mil,703.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1220.472mil,403.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1245.472mil,653.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1245.472mil,753.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1245.472mil,853.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1345.472mil,853.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1370.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1370.276mil,633.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1370.472mil,703.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1420.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1445.472mil,53.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (145.276mil,183.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (145.276mil,383.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (145.276mil,683.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (145.472mil,353.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (145.472mil,553.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (145.472mil,653.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1470.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1520.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1670.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1670.472mil,303.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (170.276mil,233.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (170.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (170.276mil,633.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (170.276mil,733.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (170.472mil,203.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (170.472mil,403.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (170.472mil,503.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (170.472mil,703.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1720.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1720.276mil,433.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1720.472mil,403.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1720.472mil,503.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1745.472mil,53.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1770.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1795.472mil,653.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1820.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1845.472mil,53.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1845.472mil,653.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1870.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1870.276mil,633.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1895.472mil,653.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1920.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1920.472mil,203.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1945.276mil,183.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1945.276mil,683.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1945.472mil,153.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1945.472mil,253.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1945.472mil,53.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (195.276mil,183.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (195.276mil,383.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (195.276mil,683.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (195.472mil,253.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (195.472mil,653.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1970.276mil,233.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1970.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1970.472mil,203.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1970.472mil,303.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1970.472mil,703.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1995.276mil,183.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1995.276mil,283.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1995.276mil,683.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1995.472mil,253.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (1995.472mil,653.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (20.276mil,133.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (20.276mil,233.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (20.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (20.276mil,333.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (20.276mil,433.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (20.276mil,533.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (20.276mil,733.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (20.276mil,833.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (2020.276mil,233.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (2020.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (2020.472mil,203.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (2020.472mil,303.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (2020.472mil,703.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (2045.276mil,183.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (2045.276mil,283.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (2045.276mil,683.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (2045.472mil,153.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (2045.472mil,253.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (2045.472mil,53.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (2070.472mil,103.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (2070.472mil,203.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (2070.472mil,303.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (2070.472mil,703.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (2070.472mil,803.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (220.276mil,233.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (220.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (220.276mil,633.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (220.276mil,733.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (220.472mil,203.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (220.472mil,303.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (220.472mil,403.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (220.472mil,703.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (245.276mil,683.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (245.472mil,253.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (245.472mil,53.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (245.472mil,653.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (245.472mil,753.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (245.472mil,853.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (270.276mil,233.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (270.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (270.276mil,733.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (270.472mil,203.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (270.472mil,703.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (295.276mil,683.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (295.472mil,253.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (295.472mil,653.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (320.276mil,233.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (320.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (320.472mil,203.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (320.472mil,503.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (320.472mil,603.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (320.472mil,703.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (345.276mil,683.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (345.472mil,53.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (345.472mil,653.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (345.472mil,853.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (370.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (370.276mil,633.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (395.472mil,253.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (395.472mil,653.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (420.276mil,233.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (420.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (420.276mil,533.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (420.276mil,633.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (420.472mil,203.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (420.472mil,303.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (420.472mil,503.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (420.472mil,603.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (445.472mil,53.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (445.472mil,853.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (45.276mil,183.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (45.276mil,683.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (45.276mil,783.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (45.276mil,83.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (45.472mil,153.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (45.472mil,253.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (45.472mil,353.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (45.472mil,453.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (45.472mil,53.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (45.472mil,653.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (45.472mil,753.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (45.472mil,853.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (470.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (495.276mil,383.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (520.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (545.276mil,383.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (545.472mil,53.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (545.472mil,853.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (570.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (595.472mil,653.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (620.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (645.472mil,53.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (645.472mil,853.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (670.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (70.276mil,233.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (70.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (70.472mil,203.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (720.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (745.472mil,53.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (745.472mil,853.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (770.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (820.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (845.472mil,53.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (845.472mil,853.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (870.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (920.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (945.472mil,153.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (945.472mil,53.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (945.472mil,853.543mil) from Top Layer to Bottom Layer Actual Size : 20mil Actual Hole Size : 10mil
+   Violation between Routing Via Style: Via (970.276mil,33.858mil) from Top Layer to Bottom Layer Actual Size : 28mil Actual Hole Size : 10mil
+Rule Violations :185
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=10mil) (Max=10mil) (Prefered=10mil)  and Width Constraints (Min=15mil) (Max=15mil) (Prefered=15mil) (All)
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=10mil) (Max=10mil) (Prefered=10mil)  and Width Constraints (Min=8mil) (Max=8mil) (Prefered=8mil) (InDifferentialPairClass('diff_90'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=393.701mil) (All)
+Rule Violations :0
+
+Processing Rule : Pads and Vias to follow the Drill pairs settings
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=11.811mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=1000mil) (InDifferentialPairClass('diff_90'))
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 7.874mil, Vertical Gap = 7.874mil ) (All),(All) 
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 185
+Waived Violations : 0
+Time Elapsed        : 00:00:02

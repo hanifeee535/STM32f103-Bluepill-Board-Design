@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=D_N Pin=R1-2
+Removed Pin From Net: NetName=D_P Pin=R3-2
+Added Pin To Net: NetName=D_N Pin=J1-2
+Added Pin To Net: NetName=D_P Pin=J1-3
+Change Net Color : Old Net Color=RGB(233, 236, 0) New Net Color=Default
